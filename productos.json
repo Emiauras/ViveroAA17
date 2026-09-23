@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Monstera deliciosa",
+    "categoria": "Interior",
+    "precio": 18500,
+    "stock": 7,
+    "descripcion": "Hojas grandes y perforadas. Luz indirecta y riego semanal."
+  },
+  {
+    "id": 2,
+    "nombre": "Potus dorado",
+    "categoria": "Interior",
+    "precio": 6200,
+    "stock": 15,
+    "descripcion": "Colgante y muy resistente. Ideal para quien empieza."
+  },
+  {
+    "id": 3,
+    "nombre": "Echeveria",
+    "categoria": "Suculenta",
+    "precio": 3400,
+    "stock": 22,
+    "descripcion": "Roseta compacta. Sol directo y poco riego."
+  },
+  {
+    "id": 4,
+    "nombre": "Cactus San Pedro",
+    "categoria": "Cactus",
+    "precio": 9800,
+    "stock": 0,
+    "descripcion": "Crece en columna. Necesita mucho sol y maceta con buen drenaje."
+  },
+  {
+    "id": 5,
+    "nombre": "Lavanda",
+    "categoria": "Exterior",
+    "precio": 5600,
+    "stock": 11,
+    "descripcion": "Aromática y atrae polinizadores. Sol pleno."
+  },
+  {
+    "id": 6,
+    "nombre": "Helecho serrucho",
+    "categoria": "Exterior",
+    "precio": 7300,
+    "stock": 4,
+    "descripcion": "Prefiere sombra y humedad constante."
+  }
+]
